@@ -1,5 +1,6 @@
 # GoBackN
-simulation of GoBackN protocol in computer network
+Simulation of GoBackN protocol in computer network
+使用C语言对数据链路层的回退N协议进行模拟实现
 
 ### 目录简介
 工程文件中包含两个文件夹：sender和receiver，每一个文件夹中都有代码文件和编译生成的可执行文件。
